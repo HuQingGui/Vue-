@@ -1,0 +1,12 @@
+export const RANK_ID = 'RANK_ID'  //歌单详情
+export const PLAY_LIST = 'PLAY_LIST' //当前播放列表
+export const PLAY_INDEX = 'PLAY_INDEX' //播放页索引
+export const PLAY_JIA = 'PLAY_JIA'
+export const PLAY_JIAN = 'PLAY_JIAN'
+export const MEMBER = 'MEMBER' //会员账号
+export const PASSWORD = 'PASSWORD' //会员账号
+export const PLAYFLAG = 'PLAYFLAG' //播放状态
+export const PLAYERFLAG = 'PLAYERFLAG' //播放器状态
+export const SINGER_ID = 'SINGER_ID' //歌手id
+export const NEARPLAY = 'NEARPLAY' //最近播放
+export const FAVORITE = 'FAVORITE' //收藏列表

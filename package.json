@@ -1,0 +1,47 @@
+{
+  "name": "wangyiyun",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "better-scroll": "^1.15.2",
+    "core-js": "^2.6.5",
+    "iscroll": "^5.2.0",
+    "lyric-parser": "^1.0.1",
+    "mint-ui": "^2.2.13",
+    "pinyin": "^2.9.0",
+    "swiper": "^4.5.0",
+    "vue": "^2.6.10",
+    "vue-aplayer": "^1.6.1",
+    "vue-lazyload": "^1.2.6",
+    "vue-router": "^3.0.6",
+    "vuex": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "babel-polyfill": "^6.26.0",
+    "es6-promise": "^4.2.8",
+    "sass": "^1.18.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
